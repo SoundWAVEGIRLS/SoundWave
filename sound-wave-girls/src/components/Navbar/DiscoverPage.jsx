@@ -1,4 +1,4 @@
-import "./DiscoverPage.css"
+/* import "./DiscoverPage.css"
 import React from 'react';
 
 function DiscoverPage() {
@@ -14,3 +14,4 @@ function DiscoverPage() {
 }
 
 export default DiscoverPage;
+ */

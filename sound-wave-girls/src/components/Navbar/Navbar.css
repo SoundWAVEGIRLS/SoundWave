@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Poppins&display=swap');
+
+.navbar{
+        background-color: #302E3A;
+        display: flex;
+         justify-content: end; 
+        align-items: center;
+
+        position: absolute;
+width: 1331px;
+height: 57px;
+left: 188px;
+top: 49px;
+
+}
+.discover{
+    width: 105px;
+height: 27px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+      
+.join{
+    width: 105px;
+height: 27px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+text-decoration: none;
+color: #FFFFFF;
+
+}
