@@ -6,8 +6,8 @@ import DiscoverPage from './components/Navbar/DiscoverPage';
  function App() {
   return (
     <div className='navbar'>
-   <JoinPage/>
-   <DiscoverPage/>
+    <DiscoverPage/>
+    <JoinPage/>
     </div>
     
   )
