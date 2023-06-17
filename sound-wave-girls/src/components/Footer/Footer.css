@@ -1,7 +1,7 @@
 .footerContainer{
     width: 100%;
     height: 87px;
-    background-color: #211F27;
+    background-color: var(--headerFooterIconsForm);
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -15,8 +15,13 @@
     font-size: 20px;
     line-height: 30px;
     text-align: center;
-    padding: 15px;
+    padding: 15px; 
+    color: var(--textWhite);
+    border: 10px solid var(--headerFooterIconsForm);
+    background-color: var(--headerFooterIconsForm); 
+    
 }
 .socialNetworks{
     margin-left: 380px;
+    background-color: var(--headerFooterIconsForm); 
 }

@@ -8,7 +8,7 @@ function Footer() {
     <div className='footerContainer'>
         <div>
             <span className='textFooter'>About Us</span>
-            <span className='textFooter empty'>Contact</span>
+            <span className='textFooter'>Contact</span>
         </div>
         <div className='socialNetworks'>
         <img src={twitter} alt="logo twitter" className='logoTwitter' />

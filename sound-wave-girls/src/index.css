@@ -2,7 +2,14 @@
 *{
   margin: 0;
   padding: 0;
+  background-color: var(--generalBackground);
+}
+:root{
+    --generalBackground: #2F303A;
+    --headerFooterIconsForm: #202027;
+    --textWhite: #FFFFFF;
 }
 #root{
-    background-color: #2F303A;
+    font-family: 'Poppins'; 
 }
+
