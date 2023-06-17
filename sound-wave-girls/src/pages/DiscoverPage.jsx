@@ -2,12 +2,18 @@ import React from 'react'
 import './DiscoverPage.css'
 import Footer from '../components/Footer/Footer'
 import ButtonMainDiscover from '../components/ButtonMainDiscover/ButtonMainDiscover'
+import DiscoverImage from '../components/DiscoverImage/DiscoverImage'
+
 
 function DiscoverPage() {
   return (
     <div className='discoverPage'> 
+    <ButtonMainDiscover>
+      <div className='discoverImageContainer'>
+      <DiscoverImage />
+      </div>
+    </ ButtonMainDiscover>
     <Footer />
-    <ButtonMainDiscover />
     </div>
   )
 }

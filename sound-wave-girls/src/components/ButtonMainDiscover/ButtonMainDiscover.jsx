@@ -4,7 +4,7 @@ import buttonAlbums from '../../assets/albums-button.svg';
 import buttonMore from '../../assets/more-button.svg';
 import './ButtonMainDiscover.css'
 
-function ButtonMainDiscover() {
+function ButtonMainDiscover(props) {
   return (
     <div className='buttonMainDiscover'>
         <h2 className='titleMainDiscover'>Discover new music</h2>
@@ -14,6 +14,7 @@ function ButtonMainDiscover() {
             <img src={buttonMore} alt="Button of more" />
         </div>
         <h4 className='infoMainDiscover'>By joining you can benefit by listening to the lastet albums released</h4>
+        {props.children}
     </div>
   )
 }
