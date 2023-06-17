@@ -1,8 +1,8 @@
 import React from 'react';
 import girlHomePage from '../../assets/landing-page-girl.png';
-import './GirlBackground.css';
+import './GirlMain.css';
 
-function GirlBackground() {
+function GirlMain() {
   return (
     <div>
       <img src={girlHomePage} alt="Girl Home Page" className='girlBackground' />
@@ -10,4 +10,4 @@ function GirlBackground() {
   );
 }
 
-export default GirlBackground;
+export default GirlMain;

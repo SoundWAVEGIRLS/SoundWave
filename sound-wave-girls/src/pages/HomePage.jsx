@@ -1,6 +1,6 @@
 import React from 'react'
 import BackgroundHome from '../components/BackgroundHome/BackgroundHome'
-import GirlBackground from '../components/girlBackground/girlBackground'
+import GirlMain from '../components/GirlMain/GirlMain'
 import TitleInfoHome from '../components/TitleInfoHome/TitleInfoHome'
 import './HomePage.css'
 
@@ -9,9 +9,11 @@ function HomePage() {
     <div className='homePage'>
 
         <BackgroundHome>
-          <GirlBackground />
+          <GirlMain />
         </BackgroundHome>
+         
           <TitleInfoHome />
+         
 
     </div>
   )
