@@ -1,44 +1,36 @@
-
-*{
-  margin: 0;
-  padding: 0;
-}
 .backgroundHome { 
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
   width: 100%;
   height: 100vh;
-  position: relative;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+
 }
 .circleRed {
-  position: absolute;
-  /* width: 536px;
-  height: 536px; */
-  width: 1700px;
-  height: 1700px;
-  left: -35px;
-  bottom: 200px;
+  width: 536px;
+  height: 536px;
   background-color: rgba(188, 58, 128, 0.102);
   border-radius: 50%;
+  align-self: flex-end;
+  margin-bottom: 74px;
 }
 .circleBlue{
-  position: absolute;
-  width: 1700px;
-  height: 1700px;
-  /* width: 536px;
-  height: 536px; */
-  left: 1500px;
-  top: 1150px;
+  width: 536px;
+  height: 535px;
   background: rgba(52, 87, 178, 0.102);
   border-radius: 50%;
+  align-self: center;
+  margin-bottom: 100px;
+  margin-right: 300px;
 }
 .ellipseCorner {
-  position: absolute;
-  /* width: 719px;
-  height: 719px;
-  left: 1322px;
-  top: 669px; */
-  width: 1710px;
-  height: 1719px;
-  left: 5200px;
-  top: 2735px;
-
+  width: 400px;
+  height: 410px;
+  align-self: flex-end; 
 }

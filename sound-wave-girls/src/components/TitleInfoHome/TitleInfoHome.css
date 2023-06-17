@@ -1,0 +1,24 @@
+.titleInfoHomeContainer{
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 568px;
+  margin-top: 500px;
+  margin-left: 685px;
+
+}
+.titleHome{
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 90px;
+  color: white;
+  font-family: 'Poppins';
+}
+.infoHomePage{
+  color: white;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 39px;
+}

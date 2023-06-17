@@ -1,5 +1,5 @@
 import React from 'react';
-import girlHomePage from '../../assets/landing-page-girl.svg';
+import girlHomePage from '../../assets/landing-page-girl.png';
 import './GirlBackground.css';
 
 function GirlBackground() {

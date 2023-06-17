@@ -1,15 +1,19 @@
 import React from 'react'
 import BackgroundHome from '../components/BackgroundHome/BackgroundHome'
 import GirlBackground from '../components/girlBackground/girlBackground'
-import TitleHome from '../components/TitleHome/TitleHome'
+import TitleInfoHome from '../components/TitleInfoHome/TitleInfoHome'
+import './HomePage.css'
 
 function HomePage() {
   return (
-    <BackgroundHome>
-    <TitleHome />
-    <GirlBackground />
+    <div className='homePage'>
 
-  </BackgroundHome>
+        <BackgroundHome>
+          <GirlBackground />
+        </BackgroundHome>
+          <TitleInfoHome />
+
+    </div>
   )
 }
 
