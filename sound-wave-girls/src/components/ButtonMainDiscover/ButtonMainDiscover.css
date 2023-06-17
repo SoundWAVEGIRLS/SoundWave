@@ -2,6 +2,7 @@
     color: var(--textWhite);
     margin-left: 170px;
    margin-top: 400px;
+   position: fixed;
 }
 .titleMainDiscover{
     font-weight: 400;
