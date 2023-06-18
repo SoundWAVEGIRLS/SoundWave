@@ -1,0 +1,15 @@
+.containerImgPageDiscover{
+    display: flex;
+    justify-content:space-around;
+    margin-left: 915px;
+    position:relative;
+    bottom: 355px;
+    background-color: transparent;
+}
+
+.imgPageDiscover{
+    width: 410px;
+    height: 427px;
+  
+
+}

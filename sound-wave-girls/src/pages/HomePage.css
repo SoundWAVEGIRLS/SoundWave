@@ -1,6 +1,10 @@
 .homePage {
-    max-width: 1117px;
-    max-height: 1728px;
+    height: 100%;
     margin: 0 auto;
     overflow: hidden;
+  }
+  .ruta{
+    font-size: 50px;
+    color: red;
+    position: fixed;
   }
