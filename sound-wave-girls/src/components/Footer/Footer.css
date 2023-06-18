@@ -19,6 +19,7 @@
     color: var(--textWhite);
     border: 10px solid var(--headerFooterIconsForm);
     background-color: var(--headerFooterIconsForm); 
+    text-decoration: none;
     
 }
 .socialNetworks{

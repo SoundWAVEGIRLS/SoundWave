@@ -2,6 +2,7 @@ import React from 'react'
 import twitter from '../../assets/twitter.svg';
 import facebook from '../../assets/facebook.svg';
 import './Footer.css'
+import {Link} from "react-router-dom"
 
 function Footer() {
   return (
@@ -12,7 +13,7 @@ function Footer() {
         </div>
         <div className='socialNetworks'>
         <img src={twitter} alt="logo twitter" className='logoTwitter' />
-        <span className='textFooter'>Twitter</span>
+        <Link to="https://twitter.com/mgblanco1001" className='textFooter'>Twitter</Link>
         <img src={facebook} alt="logo facebook" className='logoFacebook' />
         <span className='textFooter'>Facebook</span>
         </div>
