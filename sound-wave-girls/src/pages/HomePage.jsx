@@ -4,6 +4,7 @@ import GirlMain from '../components/GirlMain/GirlMain'
 import TitleInfoHome from '../components/TitleInfoHome/TitleInfoHome'
 import './HomePage.css'
 import {Link} from "react-router-dom"
+import NavBar from '../components/NavBar/NavBar'
 
 function HomePage() {
   return (
@@ -11,10 +12,11 @@ function HomePage() {
         <BackgroundHome>
           <GirlMain />
         </BackgroundHome>
-          <Link to="/discover" className='ruta'> Ir a Discover </Link>
+      <NavBar />
           <TitleInfoHome />
     </div>
   )
 }
 
 export default HomePage
+{/* <Link to="/discover" className='ruta'> Ir a Discover </Link> */}
