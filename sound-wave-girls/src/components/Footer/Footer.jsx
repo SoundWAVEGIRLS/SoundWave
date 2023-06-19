@@ -13,7 +13,7 @@ function Footer() {
         </div>
         <div className='socialNetworks'>
         <img src={twitter} alt="logo twitter" className='logoTwitter' />
-        <Link to="https://twitter.com/mgblanco1001" className='textFooter'>Twitter</Link>
+        <Link to="https://twitter.com" className='textFooter'>Twitter</Link>
         <img src={facebook} alt="logo facebook" className='logoFacebook' />
         <span className='textFooter'>Facebook</span>
         </div>
