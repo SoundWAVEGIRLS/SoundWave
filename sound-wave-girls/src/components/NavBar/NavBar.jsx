@@ -19,7 +19,7 @@ import {Link} from "react-router-dom"
   return (
     <nav className="navbar">
     <Link to="/discover" className="discover">Discover</Link>
-    <a href="#" className="join">Join</a>
+    <Link to="/join" className="join">Join</Link>
   </nav>
   );
 };

@@ -5,6 +5,7 @@ import './index.css'
 import {createHashRouter, RouterProvider} from 'react-router-dom'
 import HomePage from './pages/HomePage.jsx'
 import DiscoverPage from './pages/DiscoverPage.jsx'
+import JoinPage from './pages/JoinPage.jsx'
 
 const router = createHashRouter([
   {
@@ -14,7 +15,13 @@ const router = createHashRouter([
   {
     path:'/discover',
     element: <DiscoverPage />
-  }
+  },
+  {
+    path:'/join',
+    element: <JoinPage />
+  },
+  
+
 ])
 
 ReactDOM.createRoot(document.getElementById('root')).render(

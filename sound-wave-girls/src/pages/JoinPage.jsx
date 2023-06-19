@@ -1,13 +1,13 @@
 import React from 'react'
-import NavBar from '../components/NavBar/NavBar'
 import Form from '../components/Form/Form'
 import Footer from '../components/Footer/Footer'
+import NavBar from '../components/Navbar/Navbar'
 
 
 function JoinPage() {
   return (
     <>
-    <NavBar />
+    <NavBar/>
     <Form />
     <Footer />
     </>
