@@ -1,4 +1,4 @@
-*, html, body {
+/* *, html, body {
   margin: 0px;
   padding: 0px;
 }
@@ -10,4 +10,19 @@
   width: 1024px;
   height: 600px;
 } */
- 
+  
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,200&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  background-color: var(--generalBackground);
+}
+:root{
+    --generalBackground: #2F303A;
+    --headerFooterIconsForm: #202027;
+    --textWhite: #FFFFFF;
+}
+#root{
+    font-family: 'Poppins'; 
+}
+
