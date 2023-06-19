@@ -10,7 +10,7 @@ import JoinPage from './pages/JoinPage.jsx'
 const router = createHashRouter([
   {
     path:'/',
-    element: <HomePage />
+    element: <App />
   },
   {
     path:'/discover',
@@ -20,8 +20,6 @@ const router = createHashRouter([
     path:'/join',
     element: <JoinPage />
   },
-  
-
 ])
 
 ReactDOM.createRoot(document.getElementById('root')).render(

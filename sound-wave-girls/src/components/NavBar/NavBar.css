@@ -1,23 +1,22 @@
 .navbar{
-
-        display: flex;
-         justify-content: end; 
-        align-items: center;
-
-        position: absolute;
-        width: 1331px;
-        height: 57px;
-        left: 188px;
-        top: 49px;
-
+    display: flex;
+    justify-content: end; 
+    align-items: center;
+    position: absolute;
+    width: 1331px;
+    height: 57px;
+    left: 188px;
+    top: 49px;
+    background-color: transparent;
 }
 .discover{
     width: 105px;
-height: 27px;
+    height: 27px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    /* font-size: 20px; */
+    font-size: 24px;
     line-height: 30px;
     text-align: center;
     text-decoration: none;
@@ -26,14 +25,14 @@ height: 27px;
       
 .join{
     width: 105px;
-height: 27px;
+    height: 27px;
     font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 30px;
-text-align: center;
-text-decoration: none;
-color: var(--textWhite);
-
+    font-style: normal;
+    font-weight: 400;
+    /* font-size: 20px; */
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: var(--textWhite);
 }
