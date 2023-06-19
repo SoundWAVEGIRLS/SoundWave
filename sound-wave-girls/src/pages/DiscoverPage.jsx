@@ -3,12 +3,12 @@ import './DiscoverPage.css'
 import Footer from '../components/Footer/Footer'
 import ButtonMainDiscover from '../components/ButtonMainDiscover/ButtonMainDiscover'
 import DiscoverImage from '../components/DiscoverImage/DiscoverImage'
-import {Link} from "react-router-dom"
+import NavBar from '../components/NavBar/NavBar'
 
 function DiscoverPage() {
   return (
     <div className='discoverPage'> 
-     <Link to="/" className='ruta'> Ir a Home </Link>
+     <NavBar />
     <ButtonMainDiscover>
       <div className='discoverImageContainer'>
       <DiscoverImage />
