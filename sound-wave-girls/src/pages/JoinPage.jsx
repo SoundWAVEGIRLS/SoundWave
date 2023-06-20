@@ -6,11 +6,11 @@ import NavBar from '../components/Navbar/Navbar'
 
 function JoinPage() {
   return (
-    <>
+    <div className='join-page'>
     <NavBar/>
     <Form />
     <Footer />
-    </>
+    </div>
   )
 }
 
