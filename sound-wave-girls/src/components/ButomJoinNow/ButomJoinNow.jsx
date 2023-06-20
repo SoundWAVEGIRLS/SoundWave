@@ -9,8 +9,10 @@ function ButomJoinNow() {
   
     return (
     
-      <Link to="buttomJoinNow" className='btnJoinNow' > Join Now</Link>
+     <> <Link to="buttomJoinNow" className='btnJoinNow' > Join Now</Link></>
     );
   }
 
 export default ButomJoinNow
+
+

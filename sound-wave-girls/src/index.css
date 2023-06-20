@@ -21,6 +21,7 @@
     --generalBackground: #2F303A;
     --headerFooterIconsForm: #202027;
     --textWhite: #FFFFFF;
+    --blue-btn: #007bff;
 }
 #root{
     font-family: 'Poppins'; 

@@ -2,7 +2,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 :root{
-  --blue-btn: #007bff;
+
   --white: #FFFFFF;
   
 }
@@ -13,7 +13,7 @@
     border: none;
     border-radius: 5%;
     background-color: var(--blue-btn);
-    color: var(--white);
+    color: var(--textwhite);
     /* font-size: bold;
     cursor: pointer; */
     /* width: 92px;
