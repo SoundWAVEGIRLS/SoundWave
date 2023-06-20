@@ -1,0 +1,22 @@
+.backgroundJoin { 
+    position: fixed;
+    margin-left: 5px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row; 
+    
+}
+.ellipsered{
+   align-self: end;
+   width: 672px;
+   height: 643px;
+}
+.ellipseblue{
+    align-self: flex-start;
+    width: 578px;
+    height:579px;
+    position: absolute;
+    left: 220px;
+    background-color: transparent;
+}

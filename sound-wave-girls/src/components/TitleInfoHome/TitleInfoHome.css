@@ -1,0 +1,32 @@
+.titleInfoHomeContainer{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 568px;
+    margin-top: 560px;
+    margin-left: 950px;
+    background-color: transparent;
+  }
+  .titleHome{
+    font-weight: 400;
+    /* font-size: 60px; */
+    font-size: 64px;
+    line-height: 90px;
+    color: var(--textWhite);
+    font-family: 'Poppins';
+    margin-bottom: 10px;
+    z-index: 2;
+    background-color: transparent;
+  }
+  .infoHomePage{
+    color: var(--textWhite);
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    width: 650px;
+    /* font-size: 26px; */
+    font-size: 30px;
+    line-height: 39px;
+    z-index: 3;
+    background-color: transparent;
+  }

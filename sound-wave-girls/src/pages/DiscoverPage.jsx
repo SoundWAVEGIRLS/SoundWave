@@ -14,6 +14,7 @@ function DiscoverPage() {
       <DiscoverImage />
       </div>
     </ ButtonMainDiscover>
+  
     <Footer />
     </div>
   )

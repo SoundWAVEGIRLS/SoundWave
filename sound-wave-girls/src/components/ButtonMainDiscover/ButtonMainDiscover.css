@@ -1,0 +1,20 @@
+.buttonMainDiscover{
+    color: var(--textWhite);
+    margin-left: 120px;
+    margin-top: 400px;
+   position: fixed;
+}
+.titleMainDiscover{
+    font-weight: 400;
+    /* font-size: 60px; */
+    font-size: 64px;
+    line-height: 90px;
+    padding-bottom: 15px;
+}
+.infoMainDiscover{
+    font-weight: 400;
+    /* font-size: 26px; */
+    font-size: 30px;
+    line-height: 39px;
+    padding-top: 25px;
+}
