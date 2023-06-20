@@ -9,13 +9,13 @@
 }
 .ellipsered{
    align-self: end;
-   width: 578px;
-   height:579px;
+   width: 672px;
+   height: 643px;
 }
 .ellipseblue{
     align-self: flex-start;
-    width: 672px;
-    height: 643px;
+    width: 578px;
+    height:579px;
     position: absolute;
     left: 220px;
     background-color: transparent;

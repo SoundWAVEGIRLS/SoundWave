@@ -10,8 +10,8 @@ function JoinPage() {
     <div className='joinPage'>
     <BackgroundJoin>
     <NavBar />
-    <Form />
     </BackgroundJoin>
+    <Form />
     <Footer />
     </div>
   )
