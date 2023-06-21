@@ -1,11 +1,9 @@
 import React from 'react'
 import './DiscoverPage.css'
-import Footer from '../components/Footer/Footer'
-
-import DiscoverImage from '../components/DiscoverImage/DiscoverImage'
-import NavBar from '../components/NavBar/NavBar'
-import ButtonMainDiscover from '../components/ButtonMainDiscover/ButtonMainDiscover'
-
+import ButtonMainDiscover from '../../components/ButtonMainDiscover/ButtonMainDiscover'
+import DiscoverImage from '../../components/DiscoverImage/DiscoverImage'
+import NavBar from '../../components/NavBar/NavBar'
+import Footer from '../../components/Footer/Footer'
 function DiscoverPage() {
   return (
     <div className='discoverPage'> 
