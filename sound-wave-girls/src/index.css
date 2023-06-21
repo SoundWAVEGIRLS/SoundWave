@@ -1,17 +1,4 @@
-/* *, html, body {
-  margin: 0px;
-  padding: 0px;
-}
-
-/* #root{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 1024px;
-  height: 600px;
-} */
-  
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,200&display=swap');
+@import url(‘https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,200&display=swap’);
 *{
   margin: 0;
   padding: 0;
@@ -21,8 +8,14 @@
     --generalBackground: #2F303A;
     --headerFooterIconsForm: #202027;
     --textWhite: #FFFFFF;
-    --blue-btn: #007bff;
+    --colorButton:  #2350A3;
+    --borderInput: #303047;
+    --backgroundColorForm: #211F27;
+    --pinkTitle: #BA3E80;
+    --circleBlueBackground:  rgba(52, 87, 178, 0.102);
+    --circleRedBackground: rgba(188, 58, 128, 0.102);
+    --transparentBackground:  transparent;
 }
 #root{
-    font-family: 'Poppins'; 
+    font-family: ‘Poppins’;
 }
