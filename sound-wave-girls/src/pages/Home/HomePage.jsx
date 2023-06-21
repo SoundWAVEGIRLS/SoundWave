@@ -13,8 +13,8 @@ function HomePage() {
           <GirlMain />
           </BackgroundHome>
           <NavBar />
-          <ButomJoinNow />
           <TitleInfoHome />
+          <ButomJoinNow />
     </div>
   )
 }

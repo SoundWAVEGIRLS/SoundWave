@@ -4,8 +4,8 @@ import App from './App.jsx'
 import './index.css'
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 
-import DiscoverPage from './pages/DiscoverPage.jsx'
-import JoinPage from './pages/JoinPage.jsx'
+import DiscoverPage from './pages/Discover/DiscoverPage.jsx'
+import JoinPage from './pages/Join/JoinPage.jsx'
 
 const router = createBrowserRouter([
   {
