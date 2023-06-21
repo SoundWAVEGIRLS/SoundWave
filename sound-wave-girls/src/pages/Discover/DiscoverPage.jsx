@@ -4,9 +4,12 @@ import ButtonMainDiscover from '../../components/ButtonMainDiscover/ButtonMainDi
 import DiscoverImage from '../../components/DiscoverImage/DiscoverImage'
 import NavBar from '../../components/NavBar/NavBar'
 import Footer from '../../components/Footer/Footer'
+import Logo from '../../components/Logo/Logo'
+
 function DiscoverPage() {
   return (
     <div className='discoverPage'> 
+    <Logo />
      <NavBar />
       <ButtonMainDiscover>
       <div className='discoverImageContainer'>

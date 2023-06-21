@@ -5,10 +5,12 @@ import TitleInfoHome from '../../components/TitleInfoHome/TitleInfoHome'
 import './HomePage.css'
 import NavBar from '../../components/NavBar/NavBar'
 import ButomJoinNow from '../../components/ButomJoinNow/ButomJoinNow'
+import Logo from '../../components/Logo/Logo'
 
 function HomePage() {
   return (
     <div className='homePage'>
+        < Logo />
           <BackgroundHome>
           <GirlMain />
           </BackgroundHome>
@@ -20,3 +22,5 @@ function HomePage() {
 }
 
 export default HomePage
+
+
