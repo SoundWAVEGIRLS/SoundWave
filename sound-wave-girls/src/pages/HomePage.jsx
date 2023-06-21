@@ -10,12 +10,12 @@ import ButomJoinNow from '../components/ButomJoinNow/ButomJoinNow'
 function HomePage() {
   return (
     <div className='homePage'>
-        <BackgroundHome>
+          <BackgroundHome>
           <GirlMain />
-        </BackgroundHome>
-      <NavBar />
+          </BackgroundHome>
+          <NavBar />
           <TitleInfoHome />
-        <ButomJoinNow />
+          <ButomJoinNow />
     </div>
   )
 }
