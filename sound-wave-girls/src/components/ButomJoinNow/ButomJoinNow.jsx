@@ -9,7 +9,7 @@ function ButomJoinNow() {
   
     return (
     
-     <> <Link to="buttomJoinNow" className='btnJoinNow' > Join Now</Link></>
+     <> <Link to="/join" className='btnJoinNow' > Join Now</Link></>
     );
   }
 

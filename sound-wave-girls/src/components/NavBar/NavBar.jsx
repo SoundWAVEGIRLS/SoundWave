@@ -6,15 +6,6 @@ import {Link} from "react-router-dom"
 
 
  const NavBar = () => {
-//   function handleDiscordClick() {
-//     // Lógica para el botón Discord
-//     console.log('Botón Discord clickeado');
-//   }
-
-//   function handleJoinClick() {
-//     // Lógica para el botón Join
-//     console.log('Botón Join clickeado');
-//   }
 
   return (
     <nav className="navbar">
@@ -25,5 +16,3 @@ import {Link} from "react-router-dom"
 };
 
 export default NavBar;
-
-{/* <Link to="/discover" className='ruta'> Ir a Discover </Link> */}
