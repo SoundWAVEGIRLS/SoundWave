@@ -3,8 +3,9 @@ import BackgroundHome from '../components/BackgroundHome/BackgroundHome'
 import GirlMain from '../components/GirlMain/GirlMain'
 import TitleInfoHome from '../components/TitleInfoHome/TitleInfoHome'
 import './HomePage.css'
-import {Link} from "react-router-dom"
+
 import NavBar from '../components/NavBar/NavBar'
+import ButomJoinNow from '../components/ButomJoinNow/ButomJoinNow'
 
 function HomePage() {
   return (
@@ -14,6 +15,7 @@ function HomePage() {
         </BackgroundHome>
       <NavBar />
           <TitleInfoHome />
+        <ButomJoinNow />
     </div>
   )
 }
