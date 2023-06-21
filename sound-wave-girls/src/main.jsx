@@ -2,12 +2,12 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
-import {createHashRouter, RouterProvider} from 'react-router-dom'
+import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 
 import DiscoverPage from './pages/DiscoverPage.jsx'
 import JoinPage from './pages/JoinPage.jsx'
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     path:'/',
     element: <App />
