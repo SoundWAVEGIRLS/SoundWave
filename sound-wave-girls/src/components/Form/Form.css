@@ -2,62 +2,79 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 1728px;
+  width: 108rem;
   position:absolute;
-  margin-top: 250px;
-  background-color: transparent;
+  margin-top: 15.625rem;
+  background-color: var(--transparentBackground);
 }
 .container-title{
-  width: 600px;
-  background-color: transparent;
+  width: 31.25rem;
+  background-color: var(--transparentBackground);
+  margin-left: 6.25rem;
 }
 .title-join-the {
-  color: white;
-  font-size: 64px;
-  background-color: transparent;
+  color: var(--textWhite);
+  font-size: 4rem;
+  background-color: var(--transparentBackground);
 }
 .end-title-fun {
-  color: #BA3E80;
-  font-size: 64px;
-  background-color: transparent;
-  /* margin-right: 150px; */
+  color: var(--pinkTitle);
+  font-size: 4rem;
+  background-color: var(--transparentBackground);
 }
 .container-form{
-  background-color: #211F27;
-  width: 580px;
-  height: 493px;
-  border-radius: 10px;
+  background-color: var(--backgroundColorForm);
+  width: 35rem;
+  height: 30.813rem;
+  border-radius: 0.625rem;
   padding: 1.5rem 3rem;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  margin-left: 3.75rem;
 }
 .text-form{
-  color: white;
+  color: var(--textWhite);
   font-family: "Poppins", sans-serif;
-  font-size: 28px;
+  font-size: 1.75rem;
   font-weight: bold;
-  background-color: transparent;
+  background-color: var(--transparentBackground);
 }
 .input-form{
-  width: 575px;
-  height: 54px;
-  background-color: #211F27;
-  border: solid 1px #303047;
+  width: 34rem;
+  height: 3.375rem;
+  background-color: var(--backgroundColorForm);
+  border: solid 0.063rem var(--borderInput);
   border-radius: 0.4rem;
   margin-bottom: 1rem;
+<<<<<<< HEAD
   color: white;
   font-size: 24px;
+=======
+  color: var(--textWhite);
+  font-size: 1.5rem;
+>>>>>>> main
 }
 .join-button{
-  height: 45px;
+  height: 3.125rem;
   border: none;
   border-radius: 0.4rem;
-  background-color: #2350A3;
-  color: white;
-  font-size: 22px;
+  background-color: var( --blue-btn);
+  color: var(--textWhite);
+  font-size: 1.375rem;
+  width: 34rem;
 }
+<<<<<<< HEAD
 .feedbackMensaje{
   color:var(--textWhite);
   font-size: 24px;
 }
+=======
+.join-button:hover {
+  background-color: var(--blue-hover-btn);
+}
+.feedbackMensaje{
+  color:var(--textWhite);
+  font-size: 1.5rem;
+}
+>>>>>>> main

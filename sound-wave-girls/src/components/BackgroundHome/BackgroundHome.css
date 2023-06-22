@@ -13,24 +13,24 @@
   
   }
   .circleRed {
-    width: 536px;
-    height: 536px;
+    width: 33.5rem;
+    height: 33.5rem;
     background-color: rgba(188, 58, 128, 0.102);
     border-radius: 50%;
     align-self: flex-end;
-    margin-bottom: 74px;
+    margin-bottom: 4.625rem;
   }
   .circleBlue{
-    width: 536px;
-    height: 535px;
+    width: 33.5rem;
+    height: 33.5rem;
     background: rgba(52, 87, 178, 0.102);
     border-radius: 50%;
     align-self: center;
-    margin-bottom: 180px;
+    margin-bottom: 11.25rem;
   }
   .ellipseCorner {
-    width: 400px;
-    height: 410px;
-    align-self: flex-end; 
-    margin-left: 325px;
+    width: 25rem;
+    height: 25.625rem;
+    align-self: flex-end;
+    margin-left: 20.313rem;
   }

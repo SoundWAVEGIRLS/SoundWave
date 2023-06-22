@@ -3,36 +3,35 @@
     justify-content: end; 
     align-items: center;
     position: absolute;
-    width: 1331px;
-    height: 57px;
-    left: 188px;
-    top: 49px;
+    width: 83.188rem;
+    height: 3.563rem;
+    left: 11.75rem;
+    top: 3.063rem;
     background-color: transparent;
 }
-.discover{
-    width: 105px;
-    height: 27px;
+.discover {
+    width: 6.563rem;
+    height: 1.688rem;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    /* font-size: 20px; */
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 1.5rem; 
+    line-height: 1.875rem; 
     text-align: center;
     text-decoration: none;
     color: var(--textWhite);
-}
-      
-.join{
-    width: 105px;
-    height: 27px;
+  }
+  
+  .join {
+    width: 6.563rem;
+    height: 1.688rem;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    /* font-size: 20px; */
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 1.5rem; 
+    line-height: 1.875rem; 
     text-align: center;
     text-decoration: none;
     color: var(--textWhite);
-}
+  }
+  

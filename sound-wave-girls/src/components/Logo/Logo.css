@@ -1,0 +1,27 @@
+
+.containerLogo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  margin-top: 2.938rem;
+  margin-left: 7.375rem;
+  background-color: var(--transparentBackground);
+  text-decoration: none;
+  z-index: 90;
+}
+
+.logo-text {
+  color:var(--textWhite);
+  font-size: 1.625rem;
+  font-weight: 400;
+  margin-left: 0.938rem;
+  background-color: var(--transparentBackground);
+ 
+}
+
+
+.imgLogo { 
+  width: 57px;
+  height: 57px;
+}

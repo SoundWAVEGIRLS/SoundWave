@@ -13,9 +13,9 @@ function Footer() {
         </div>
         <div className='socialNetworks'>
         <img src={twitter} alt="logo twitter" className='logoTwitter' />
-        <Link to="https://twitter.com" className='textFooter'>Twitter</Link>
+        <Link to="https://twitter.com" className='textFooter' target="_blank">Twitter</Link>
         <img src={facebook} alt="logo facebook" className='logoFacebook' />
-        <span className='textFooter'>Facebook</span>
+        <Link to="https://es-es.facebook.com/" className='textFooter' target="_blank">Facebook</Link>
         </div>
     </div>
   )

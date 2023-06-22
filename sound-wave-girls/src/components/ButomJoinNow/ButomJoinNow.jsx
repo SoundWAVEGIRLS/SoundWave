@@ -3,9 +3,7 @@ import './ButomJoinNow.css';
 import { Link } from 'react-router-dom';
 
 function ButomJoinNow() {
-    // const handleButtonClick = () => {
-
-    // }
+   
   
     return (
     
