@@ -1,7 +1,8 @@
 ![image](https://github.com/SoundWAVEGIRLS/SoundWave/assets/132339878/029823f3-bba0-4aba-b331-e8bb84f98504)
 
 # Proyecto SoundWave
-Nos presentamos, somos el equipo Sound Wave Girls y estamos compuestas por:
+Nos presentamos, somos el equipo Sound Wave Girls y estamos compuestas por:>
+
 
 🎧Lorena Morales
 
