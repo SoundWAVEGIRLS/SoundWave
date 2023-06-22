@@ -59,6 +59,9 @@
   font-size: 1.375rem;
   width: 34rem;
 }
+.join-button:hover {
+  background-color: var(--blue-hover-btn);
+}
 .feedbackMensaje{
   color:var(--textWhite);
   font-size: 1.5rem;
