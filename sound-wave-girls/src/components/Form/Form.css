@@ -47,6 +47,8 @@
   border: solid 0.063rem var(--borderInput);
   border-radius: 0.4rem;
   margin-bottom: 1rem;
+  color: var(--textWhite);
+  font-size: 1.5rem;
 }
 .join-button{
   height: 3.125rem;
@@ -56,4 +58,8 @@
   color: var(--textWhite);
   font-size: 1.375rem;
   width: 34rem;
+}
+.feedbackMensaje{
+  color:var(--textWhite);
+  font-size: 1.5rem;
 }
