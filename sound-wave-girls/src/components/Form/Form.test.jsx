@@ -21,11 +21,7 @@ describe('Component Form', () => {
         fireEvent.change(emailInput, { target: { value: "l.r.@hola.com" } });
         fireEvent.change(passwordInput, { target: { value: "123123123" } });
 
-<<<<<<< HEAD
-        expect(screen.getByText('Se ha registrado correctamente')).toBeDefined()
-=======
         expect(screen.getByText('You have successfully registered')).toBeDefined()
->>>>>>> main
       });
 
 
