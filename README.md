@@ -1,9 +1,12 @@
-![image](https://github.com/SoundWAVEGIRLS/SoundWave/assets/132339878/029823f3-bba0-4aba-b331-e8bb84f98504)
+<!-- ![image](https://github.com/SoundWAVEGIRLS/SoundWave/assets/132339878/029823f3-bba0-4aba-b331-e8bb84f98504) -->
+
+<p align="center">
+  <img src="https://github.com/SoundWAVEGIRLS/SoundWave/assets/132339878/029823f3-bba0-4aba-b331-e8bb84f98504" alt="image" style="width: 120px; height: 150px;">
+</p>
 <h1 align="center"> Sound Wave Girls - Project SoundWave - Factoria F5 </h1>
 
 # Equipo Sound Wave Girls
-Nos presentamos, somos el equipo Sound Wave Girls y estamos compuestas por:>
-
+Nos presentamos, somos el equipo Sound Wave Girls y estamos compuestas por:
 
 🎧Lorena Morales
 
@@ -33,9 +36,6 @@ Nos han contactado por nuestra buena reputación como maquetadoras web, y nos ha
  - `Funcionalidad 5`: 
 
 
-
-
-
 ## 💻 Tecnologías y 🛠Herramientas
 
 Para realizar el proyecto hemos utilizado las siguientes 
@@ -62,12 +62,30 @@ Y las siguientes **Herramientas**:
 
 ✅ Git / GitHub
 
+✅ Vitest
+
 
 # Planificación
 
 Hemos planificado el proyecto utilizando los marcos de trabajo Scrum y Kanban.
 
 Enlace a Trello: https://trello.com/b/yLJvKb5U/equipo-5
+
+## INSTALACIÓN
+
+# Instalación:
+## Pasos para la instalación
+
+A continuación se detallan los pasos para la instalación:
+
+git clone https://github.com/mgblanco10/CuriousFacts
+
+- npm init -y
+### Para que el proyecto inicie:
+- npm run dev
+#### Para correr los test:
+- npm test
+- npm run coverage
 
 ## ¿COMO FUNCIONA?
 
@@ -98,10 +116,26 @@ La página tiene un footer ![image](https://github.com/SoundWAVEGIRLS/SoundWave/
 Con funcionaldad el cliente ha solicitado Facebook y Linkedin para esta maquetación inicial.
 
 
-## EComo se ha construido el proyecto: Atómic Designer
-<h4 align="center">
-:Proyecto Atomic Designer :construction realizada:
-</h4>
-</h4>
+## Se ha construido el proyecto con atomic desing: 
 
-## Figma
+### Figma wireframes
+[Enlace al diseño wireframes](/sound-wave-girls/src/assets/bajaFidelidad.png)
+
+### Figma átomos
+[Enlace al diseño Atomos en Figma](/sound-wave-girls/src/assets/atomos.png)
+
+### Figma moleculas
+[Enlace al diseño Moleculas en Figma](/sound-wave-girls/src/assets/moleculas.png)
+
+### Figma organismos
+[Enlace al diseño Organismos en Figma](/sound-wave-girls/src/assets/organismos.png)
+
+### Figma version desktop
+[Enlace al diseño Versión Desktop en Figma de las tres pantallas de la aplicación](/sound-wave-girls/src/assets/desktop.png)
+
+## Test Coverage (cobertura de pruebas)
+
+![Cobertura de los tests de los componentes](./sound-wave-girls/src/assets/coverageTest.png)
+
+
+

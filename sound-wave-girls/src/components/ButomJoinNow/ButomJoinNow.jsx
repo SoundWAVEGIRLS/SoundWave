@@ -3,11 +3,11 @@ import './ButomJoinNow.css';
 import { Link } from 'react-router-dom';
 
 function ButomJoinNow() {
-   
-  
-    return (
-    
-     <> <Link to="/join" className='btnJoinNow' > Join Now</Link></>
+
+    return (   
+    <> 
+      <Link to="/join" className='btnJoinNow' > Join Now</Link>
+    </>
     );
   }
 
