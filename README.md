@@ -116,7 +116,7 @@ La página tiene un footer ![image](https://github.com/SoundWAVEGIRLS/SoundWave/
 Con funcionaldad el cliente ha solicitado Facebook y Linkedin para esta maquetación inicial.
 
 
-## Se ha construido el proyecto con atomic desing: 
+## Construido el proyecto con atomic desing: 
 
 ### Figma wireframes
 [Enlace al diseño wireframes](/sound-wave-girls/src/assets/bajaFidelidad.png)
