@@ -48,6 +48,9 @@ Para realizar el proyecto hemos utilizado las siguientes
 ✅ Javascript
 
 ✅ React.js
+
+✅ Vite
+
   
 Y las siguientes **Herramientas**:
 
