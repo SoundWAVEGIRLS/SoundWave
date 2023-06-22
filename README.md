@@ -26,10 +26,14 @@ Nos han contactado por nuestra buena reputación como maquetadoras web, y nos ha
 
 🔨Funcionalidades del proyecto
 
-Entrar desde la Homepage 
-Acceder a las distintas paginas a través de los botones de la Homepage.
-Tener un formulario para ingresar como socio de la app y que confirme la inscripción.
-Tener un logo interactivo para volver a la página principal.
+ - `Funcionalidad 1`: Entrar desde la Homepage . 
+ - `Funcionalidad 2`: Acceder a las distintas paginas a través de los botones de la Homepage.
+ - `Funcionalidad 2a`: Tener un formulario para ingresar como socio de la app y que confirme la inscripción.
+ - `Funcionalidad 3`: Tener un logo interactivo para volver a la página principal.
+ - `Funcionalidad 4`: Alert Finish para volver a jugar
+
+
+
 
 
 ## 💻 Tecnologías y 🛠Herramientas
@@ -69,6 +73,11 @@ Una vez entramos en la página de inicio, se invita a entrar a la aplicación
 ![image](https://github.com/SoundWAVEGIRLS/SoundWave/assets/132339878/983dc9be-377d-416a-ab65-becebb10b103)
 
 Una vez dentro de la página podemos clickar el botón ![image](https://github.com/SoundWAVEGIRLS/SoundWave/assets/132339878/ebb611d4-b870-48a6-a8d3-0452c0793d24) para poder ingresar al formulario de inscripción
+
+![image](https://github.com/SoundWAVEGIRLS/SoundWave/assets/132339878/a33432dc-6f86-4318-87e6-0e5f684e63d6)
+
+
+
 
 
 
