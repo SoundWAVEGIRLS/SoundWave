@@ -1,5 +1,3 @@
-<!-- ![image](https://github.com/SoundWAVEGIRLS/SoundWave/assets/132339878/029823f3-bba0-4aba-b331-e8bb84f98504) -->
-
 <p align="center">
   <img src="https://github.com/SoundWAVEGIRLS/SoundWave/assets/132339878/029823f3-bba0-4aba-b331-e8bb84f98504" alt="image" style="width: 120px; height: 150px;">
 </p>
@@ -80,7 +78,7 @@ A continuación se detallan los pasos para la instalación:
 
 git clone https://github.com/SoundWAVEGIRLS/SoundWave
 
-- npm init -y
+- npm i
 ### Para que el proyecto inicie:
 - npm run dev
 #### Para correr los test:
