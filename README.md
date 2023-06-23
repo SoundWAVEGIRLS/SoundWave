@@ -78,7 +78,7 @@ Enlace a Trello: https://trello.com/b/yLJvKb5U/equipo-5
 
 A continuación se detallan los pasos para la instalación:
 
-git clone https://github.com/mgblanco10/CuriousFacts
+git clone https://github.com/SoundWAVEGIRLS/SoundWave
 
 - npm init -y
 ### Para que el proyecto inicie:
