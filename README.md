@@ -33,7 +33,7 @@ Nos han contactado por nuestra buena reputación como maquetadoras web, y nos ha
  - `Funcionalidad 2`: Acceder a las distintas paginas a través de los botones de la Homepage.
  - `Funcionalidad 3`: Tener un formulario para ingresar como socio de la app y que confirme la inscripción.
  - `Funcionalidad 4`: Tener un logo interactivo para volver a la página principal.
- - `Funcionalidad 5`: 
+ 
 
 
 ## 💻 Tecnologías y 🛠Herramientas
