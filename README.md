@@ -45,7 +45,9 @@ Para realizar el proyecto hemos utilizado las siguientes
 
 ✅ Javascript
 
-✅ React.js
+✅ React.js v.18
+
+✅ React-router-dom v.6
 
 ✅ Vite
 
