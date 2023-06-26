@@ -25,7 +25,7 @@ Nos han contactado por nuestra buena reputación como maquetadoras web, y nos ha
 🔨Funcionalidades del proyecto
 
  - `Funcionalidad 1`: Entrar desde la Homepage . 
- - `Funcionalidad 2`: Acceder a las distintas paginas a través de los botones de la Homepage.
+ - `Funcionalidad 2`: Acceder a las distintas páginas a través de los botones de la Homepage.
  - `Funcionalidad 3`: Tener un formulario para ingresar como socio de la app y que confirme la inscripción.
  - `Funcionalidad 4`: Tener un logo interactivo para volver a la página principal.
  
@@ -62,7 +62,7 @@ Y las siguientes **Herramientas**:
 ✅ Vitest
 
 
-# Planificación
+# PLANIFICACIÓN
 
 Hemos planificado el proyecto utilizando los marcos de trabajo Scrum y Kanban.
 
@@ -84,7 +84,7 @@ git clone https://github.com/SoundWAVEGIRLS/SoundWave
 - npm test
 - npm run coverage
 
-## ¿COMO FUNCIONA?
+## ¿CÓMO FUNCIONA?
 
 Una vez entramos en la página de inicio, hay tres partes diferenciadas:
 
