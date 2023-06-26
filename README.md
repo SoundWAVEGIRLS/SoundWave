@@ -20,10 +20,7 @@ La empresa SoundWave, se ha posicionado en el mercado como la competencia direct
 >  
 Nos han contactado por nuestra buena reputación como maquetadoras web, y nos han solicitado el desarrollo de una landing page para buscar nuevos suscriptores. Nuestro equipo es interdisciplinar por lo que la UX Designer ha construido la maqueta que debemos que llevar al código. Posteriormente , el equipo de marketing digital posicionará la página en los navegadores.
 >
-📓 Competencias técnicas 
 
-- Maquetar una aplicación - Nivel 3: Crear
-- Crear una interfaz de usuario web dinámica y adaptable - Nivel 2: Adaptar
 
 🔨Funcionalidades del proyecto
 
